@@ -1,0 +1,6 @@
+psycopg2-binary
+allure-python-commons
+pytest
+requests
+selenium
+allure-pytest
